@@ -20,4 +20,4 @@ Si los cambios afectan a la interfaz de usuario, por favor adjunta capturas de p
 - [ ] He documentado adecuadamente los cambios en el código.
 
 ### **Otros Comentarios**  
-Agrega cualquier otra información relevante aquí.
+Agrega cualquier otra información relevante aquí o si consideras necesario.
